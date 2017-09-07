@@ -2,3 +2,4 @@ yum install epel-release
 yum install openvpn easy-rsa -y
 cp /usr/share/doc/openvpn-*/sample/sample-config-files/server.conf /etc/openvpn
 vi /etc/openvpn/server.conf
+https://www.digitalocean.com/community/tutorials/how-to-setup-and-configure-an-openvpn-server-on-centos-7
